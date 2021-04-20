@@ -4,9 +4,9 @@
 
 [此处跳到百度一下](www.baidu.com/)
 
-[跳到另一个文件](anotther.md)
+[跳到另一个文件](another.md)
 
-![abc](\b-ssl.duitang.jpg)
+![abc](b-ssl.duitang.jpg)
 
 ![](https://pic1.zhimg.com/v2-f0e7ed94a09504881fa21a96ea632b43_r.jpg)
 
