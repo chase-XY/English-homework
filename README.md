@@ -2,7 +2,7 @@
 
 #### 这是个H4级别标题
 
-[此处跳到百度一下](http:\\www.baidu.com)
+[此处跳到百度一下](http://www.baidu.com)
 
 [跳到另一个文件](another.md)
 
