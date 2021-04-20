@@ -6,7 +6,7 @@
 
 [跳到另一个文件](another.md)
 
-![abc](b-ssl.duitang.jpg)
+![跳到repository的图片，图片在网页无法打开但下载后可以打开](b-ssl.duitang.jpg)
 
 ![](https://pic1.zhimg.com/v2-f0e7ed94a09504881fa21a96ea632b43_r.jpg)
 
