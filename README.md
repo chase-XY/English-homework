@@ -8,8 +8,6 @@
 
 ![abc](.\b-ssl.duitang.jpg)
 
-![b-ssl.duitang](C:\Users\fur\Desktop\b-ssl.duitang.jpeg)
-
 ![](https://pic1.zhimg.com/v2-f0e7ed94a09504881fa21a96ea632b43_r.jpg)
 
 ```c
