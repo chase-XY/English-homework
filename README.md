@@ -4,7 +4,7 @@
 
 [此处跳到百度一下](www.baidu.com/)
 
-[jump to another file
+[jump to another file]
 
 ![abc](.\b-ssl.duitang.jpg)
 
